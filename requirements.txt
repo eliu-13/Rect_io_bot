@@ -1,0 +1,8 @@
+beautifulsoup4==4.15.0
+curl_cffi==0.17.0
+google-genai==3.3.0
+python-dotenv==1.2.4
+python-telegram-bot==22.8
+pyvirtualdisplay==3.0
+seleniumbase==4.58.1
+telegramify_markdown==1.4.2
